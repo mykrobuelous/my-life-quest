@@ -1,6 +1,5 @@
 // 📦 LIBRARIES IMPORT
 import { Provider } from 'react-redux';
-import { twMerge } from 'tailwind-merge';
 import store from '../store/store';
 
 /* ===================================================================== */
